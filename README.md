@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/status-MVP-blue)
 ![Built With](https://img.shields.io/badge/built%20with-HTML%20%7C%20CSS%20%7C%20JavaScript-orange)
-![Target](https://img.shields.io/badge/target-Elementary%20School%20(Grade%204--6)-yellow)
+![Target](https://img.shields.io/badge/target-Elementary%20School%20-yellow)
 ![Focus](https://img.shields.io/badge/focus-Learning%20%26%20Fun-brightgreen)
 
 A simple and interactive web-based learning platform designed for elementary school students (Grade 4–6).
@@ -18,13 +18,13 @@ The website is designed to be:
 
 
 ##  Target Users
-- Elementary school students (Grade 4–6)
+- Elementary school students
 - Children who want to learn while playing
 
 
 ##  Available Subjects
 - Basic Mathematics 
-- Indonesian Language
+- Indonesian Language - Cominh Soon
 - Science – Coming Soon
 - Social Studies – Coming Soon
 
@@ -47,9 +47,9 @@ The website is designed to be:
 - Development: Ongoing
 - Database: Not used
 
-##  Future Improvements
-- Add Science (IPA) and Social Studies (IPS) subjects
-- Add sound effects and simple animations
+##  Future Improvement
+- Add Science (IPA), Indonesian Langiage and Social Studies (IPS) subjects
+- Add simple animations
 - Improve UI responsiveness
 - Optional backend integration for user progress tracking
 
